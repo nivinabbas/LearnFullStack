@@ -1,0 +1,11 @@
+.header {
+  color: aquamarine;
+  background-color: black;
+  text-align: center;
+}
+
+#description {
+  background-color: darkgray;
+  width: auto;
+  height: 200px;
+}
